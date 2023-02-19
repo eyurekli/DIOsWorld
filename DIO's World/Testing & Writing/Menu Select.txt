@@ -1,0 +1,10 @@
+
+
+
+
+
+enemy_life = 3000
+
+def Lifebar():
+	global enemy_life
+	pygame.draw.rect(screen,GREEN,[200,10, enemy_life / 10, 20],5)
