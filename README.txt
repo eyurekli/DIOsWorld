@@ -2,6 +2,12 @@
 A game created using Python and PyGame inspired by Capcom's 1998 game, JoJo's Bizarre Adventure: Heritage for the Future
 and the manga/anime series JoJo's Bizarre Adventure, created by Hirohiko Araki
 
+PYGAME has to be installed before playing this game. Please make sure Pygame is installed. You can refer to the following article by GeeksForGeeks:
+https://www.geeksforgeeks.org/how-to-install-pygame-in-windows/
+
+You can install pygame simply by entering the following command to the Command Prompt:
+pip install pygame
+
 Use the "DIO's World.py" to play the game. 
 Do not modify the spritesheet(x).py files as they are the code that sets up spritesheets for the character models used.
 Instructions included in the main menu.
