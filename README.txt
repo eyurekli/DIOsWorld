@@ -1,9 +1,9 @@
 # DIO's World
-A game created using Python and PyGame inspired by Capcom's 1998 game, JoJo's Bizarre Adventure: Heritage for the Future
+A game created using Python 3 and PyGame inspired by Capcom's 1998 game, JoJo's Bizarre Adventure: Heritage for the Future
 and the manga/anime series JoJo's Bizarre Adventure, created by Hirohiko Araki. 
 Copyright Shueisha, Lucky Land Communications, Capcom
 
-PYGAME has to be installed before playing this game. Please make sure Pygame is installed. You can refer to the following article by GeeksForGeeks:
+PYGAME has to be installed before playing this game. Please make sure Pygame, and Python 3, is installed. You can refer to the following article by GeeksForGeeks:
 https://www.geeksforgeeks.org/how-to-install-pygame-in-windows/
 
 You can install pygame simply by entering the following command to the Command Prompt:
