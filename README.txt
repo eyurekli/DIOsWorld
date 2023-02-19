@@ -25,4 +25,9 @@ Beat the capybara. Has 5000 health.
 Defeat DIO's enemy, Jotaro Kujo. Has 10000 health. 
 Even if DIO stops time, Jotaro can move for 2 seconds.
 
+Choose from 2 stages:
+1. Cairo City
+2. Clock Tower
+
 More content and improvements to the objectives/enemies to be added to the future!
+Enjoy!
