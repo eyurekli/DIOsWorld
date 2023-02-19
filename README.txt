@@ -1,4 +1,4 @@
-# DIOsWorld
+# DIO's World
 A game created using Python and PyGame inspired by Capcom's 1998 game, JoJo's Bizarre Adventure: Heritage for the Future
 and the manga/anime series JoJo's Bizarre Adventure, created by Hirohiko Araki. 
 Copyright Shueisha, Lucky Land Communications, Capcom
