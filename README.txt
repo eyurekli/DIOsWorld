@@ -9,7 +9,7 @@ https://www.geeksforgeeks.org/how-to-install-pygame-in-windows/
 You can install pygame simply by entering the following command to the Command Prompt:
 pip install pygame
 
-New version v0.2!
+New version v0.2! March 22, 2023
 -Jotaro's movement has been improved
 Comments: Jotaro now moves more smoothly, rather than one direction at a time.. Sprite animations, but most importantly attacks, to be added in the future.
 It has been a while since the release. First principles of derrivatives was not very fun to deal with in the last month. But the derrivative rules are fun though. 
